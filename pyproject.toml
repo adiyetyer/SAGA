@@ -1,0 +1,8 @@
+[project]
+name = "saga-checkout-demo"
+version = "0.1.0"
+description = "Simple checkout saga pattern demo in a single microservice"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
